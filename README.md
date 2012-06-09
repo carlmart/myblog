@@ -1,0 +1,4 @@
+myblog
+======
+
+my 'git' blog
